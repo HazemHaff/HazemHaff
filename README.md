@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HazemHaff
-- 👀 I’m interested in Data Science, Data Engineering, Database Engineering, AI engineering, Cloud Architecture, and Cybersecurity.
-- 🌱 I’m currently learning Back-End Development and Front-End Development.
-- 💞️ I’m looking to collaborate on Data relative Projects
+- 👀 I’m interested in Data Science, Data Engineering, Database Engineering.
+- 🌱 I’m currently AI engineering, Cloud Architecture, and Cybersecurity.
+- 💞️ I’m looking to collaborate on Data related Projects
 - 📫 How to reach me ? You Can reach me on Linkedin :)
 
 <!---
